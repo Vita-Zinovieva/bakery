@@ -117,7 +117,7 @@ h2 {
   z-index: 3;
  }
 .header-wraper{
-  background: url(src/images/img.png) no-repeat;
+  background: url(./images/img.png) no-repeat;
   background-size: cover; 
   height: 940px;
   /*width: 100%;*/
@@ -457,7 +457,7 @@ padding: 0 30px 10px 30px;
   margin: auto;
 }
 .now-wraper {
-  background: url(src/images/footer1.png) no-repeat;
+  background: url(./images/footer1.png) no-repeat;
   background-size: cover; 
   width: 100%;
   align-items: center;
@@ -560,7 +560,7 @@ form {
   padding: 36px 0 174px 30px;
 }
 .footer-wraper {
-  background: url(src/images/footer2.png) no-repeat;
+  background: url(./images/footer2.png) no-repeat;
   background-size: cover; 
   display: flex;
   width: 50%;
